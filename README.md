@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <h1>Tic tac toe</h1>
 
 <img src='img/gif-project.gif'>
