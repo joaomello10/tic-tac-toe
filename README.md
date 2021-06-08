@@ -17,4 +17,4 @@
     <li>css</li>
 </ul>
 
-Feito por João Pedro
+Made by João Pedro
