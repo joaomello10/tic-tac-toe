@@ -8,7 +8,7 @@
 <img src='img/gif-project.gif'>
 
 ## 🚀 Technologies
-
+ 
 <ul>
     <li>Javascript </li>
     <li>html</li>
